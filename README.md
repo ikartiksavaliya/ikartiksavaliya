@@ -15,6 +15,3 @@ I am a Data Analyst and Machine Learning enthusiast focused on building predicti
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### 📊 GitHub Stats
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikartiksavaliya&show_icons=true&theme=minimal)
