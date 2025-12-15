@@ -5,7 +5,7 @@ I am a Data Analyst and Machine Learning enthusiast focused on building predicti
 - 🔭 **I’m currently working on:** End-to-end ML pipelines for real estate and retail inflation analysis.
 - 👯 **I’m looking to collaborate on:** Open-source Python libraries for data preprocessing.
 - 💬 **Ask me about:** Python, Scikit-Learn, SQL, and Power BI.
-- 📫 **Reach me at:** [Your Email or LinkedIn URL]
+- 📫 **Reach me at:** ikartiksavaliya@gmail.com
 
 ---
 
