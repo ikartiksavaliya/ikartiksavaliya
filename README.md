@@ -81,21 +81,11 @@ I am a **Data Scientist and Machine Learning Engineer** passionate about transfo
 * Conducted time-series data preprocessing and exploratory analysis
 * Generated actionable business insights from economic data
 
----
-
-## 📊 GitHub Stats
-
-![Kartik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikartiksavaliya\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikartiksavaliya\&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 Email: [ikartiksavaliya@gmail.com](mailto:ikartiksavaliya@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
-* 🌐 Portfolio: https://your-portfolio-website.com
-
+* 💼 LinkedIn: https://www.linkedin.com/in/ikartiksavaliya
+* 
 ---
 
 ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
