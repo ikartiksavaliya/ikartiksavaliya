@@ -48,12 +48,6 @@ I am a **Data Scientist and Machine Learning Engineer** passionate about transfo
 
 ## 📂 Featured Projects
 
-### 🏠 Real Estate Price Prediction System
-
-* Built end-to-end regression pipelines for property valuation
-* Applied feature engineering and model optimization techniques
-* Evaluated models using RMSE and R² metrics
-
 ### 💳 Credit Card Fraud Detection using Deep Learning
 
 * Developed neural network models for fraud detection on imbalanced datasets
@@ -65,12 +59,6 @@ I am a **Data Scientist and Machine Learning Engineer** passionate about transfo
 * Built NLP pipelines for ticket classification and automated routing
 * Implemented text preprocessing, tokenization, and sequence models
 * Evaluated deep learning models for multi-class classification tasks
-
-### 📈 Retail Inflation Forecasting
-
-* Developed predictive models for inflation analysis
-* Conducted time-series data preprocessing and exploratory analysis
-* Generated actionable business insights from economic data
 
 ## 📫 Connect With Me
 
