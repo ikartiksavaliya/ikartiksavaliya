@@ -85,7 +85,7 @@ I am a **Data Scientist and Machine Learning Engineer** passionate about transfo
 
 * 📧 Email: [ikartiksavaliya@gmail.com](mailto:ikartiksavaliya@gmail.com)
 * 💼 LinkedIn: https://www.linkedin.com/in/ikartiksavaliya
-* 
+
 ---
 
 ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
